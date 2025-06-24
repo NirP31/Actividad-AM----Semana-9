@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores primarios de ejemplo -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Colores de fondo y texto para modo claro/oscuro -->
+    <color name="background_light">#FFFFFF</color>  <!-- fondo blanco -->
+    <color name="text_light">#000000</color>        <!-- texto negro -->
+    <color name="background_dark">#333333</color>   <!-- fondo gris oscuro -->
+    <color name="text_dark">#FFFFFF</color>         <!-- texto blanco -->
+</resources>
+

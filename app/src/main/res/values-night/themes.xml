@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ActividadAMSemana9" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Colores primarios (pueden ser los mismos o distintos para modo oscuro) -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Estado de la barra superior transparente o color de status -->
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/transparent</item>
+
+        <!-- Fondo y texto en modo oscuro -->
+        <item name="android:colorBackground">@color/background_dark</item>
+        <item name="android:textColorPrimary">@color/text_dark</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+    </style>
+</resources>
+
